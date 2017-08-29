@@ -1,0 +1,22 @@
+-man brings up the manual in linux.
+	ex. man ls	-this will display manual for the ls command.
+
+#1: How do we long onto another computer remotely using SSH i terminal?
+ssh <username>@<remote>
+
+	to include the port: ssh <username>@<remote> -p 2220
+
+	For example: myUserName@theWebsitesName.org -p 2220
+
+#2: cat
+			This allows us to see the contents of a file.
+
+			For example: cat textFileName.txt
+				This will print the contents of the file to the screen.
+#3
+
+
+
+PASSWORDS FOR OVERTHEWIRE:
+1.boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+2.
