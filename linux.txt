@@ -29,6 +29,11 @@ ssh <username>@<remote>
 	if the file is data then it is unreadable. if it is ASCII text then it is readable.
 	This is useful to find readable files in a directory to pull information.
 
+#7 find -size 1033c
+	This searches for files with the size of 1033 bytes.
+	When we find the file we are looking for:
+		cat ./directoryName/.filename
+
 *TIP
 control + z : if return does not bring you back to the command.
 
@@ -38,3 +43,4 @@ PASSWORDS FOR OVERTHEWIRE:
 3.UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 4.pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 5.koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+6.DXjZPULLxYr17uwoI01bNLQbtFemEgo7
