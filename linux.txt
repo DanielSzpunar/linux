@@ -1,3 +1,4 @@
+Daniel Szpunar
 -man brings up the manual in linux.
 	ex. man ls	-this will display manual for the ls command.
 
