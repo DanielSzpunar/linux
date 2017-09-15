@@ -1,5 +1,5 @@
 Daniel Szpunar
--man brings up the manual in linux.
+-man  brings up the manual in linux.
 	ex. man ls	-this will display manual for the ls command.
 
 #1: How do we long onto another computer remotely using SSH i terminal?
